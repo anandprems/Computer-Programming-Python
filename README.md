@@ -28,6 +28,8 @@ Strings: Comparison, Formatting, Slicing, Splitting, Stripping – Regular Expre
 Functions – Parameters and Arguments: Positional arguments, Keyword arguments, Parameters with default values – Local and Global scope of variables – Functions with Arbitrary arguments –
 Recursive Functions – Lambda Function. Files: Create, Open, Read, Write, Append and Close – tell and seek methods.
 
+lambda - https://www.analyticsvidhya.com/blog/2021/10/lambda-function-a-better-understanding/ 
+
 ## Module 7: Modules and Packages
 
 Built-in modules – User-Defined modules – Overview of Numpy and Pandas packages
